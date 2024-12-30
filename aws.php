@@ -3,14 +3,14 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title> AWS Responsive Login Form HTML CSS | CodingNepal</title>
+  <title> AWS Fqa1 Job Riesponsive Login Form HTML CSS | CodingNepal</title>
   <link rel="stylesheet" href="style.css" />
   <!-- Font Awesome CDN link for icons -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/8.6.0/css/all.min.css" />
 </head>
 <body>
   <div class="wrapper">
-    <div class="title"><span> Ravi AWS  Login Form</span></div>
+    <div class="title"><span> Ravi AWS fqa1 job   Login Form</span></div>
     <form action="#">
       <div class="row">
         <i class="fas fa-user"></i>
