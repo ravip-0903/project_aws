@@ -9,9 +9,8 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" />
 </head>
 <body>
-  <nav>Ravi</nav>
   <div class="wrapper">
-    <div class="title"><span> AWS Login Form</span></div>
+    <div class="title"><span> pandey ji  Login Form</span></div>
     <form action="#">
       <div class="row">
         <i class="fas fa-user"></i>
