@@ -10,7 +10,7 @@
 </head>
 <body>
   <div class="wrapper">
-    <div class="title"><span> Pandey ji ka ji AWS Login Form</span></div>
+    <div class="title"><span> Pandey Login Form</span></div>
     <form action="#">
       <div class="row">
         <i class="fas fa-user"></i>
