@@ -26,7 +26,6 @@
       </div>
       <div class="signup-link">Not a member? <a href="#">Signup now</a></div>
     </form>
-  </div>
-  <nav>ravi_prakash_pandey</nav> 
+  </div> 
 </body>
 </html>
