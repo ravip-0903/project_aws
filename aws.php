@@ -8,6 +8,8 @@
   <!-- Font Awesome CDN link for icons -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" />
 </head>
+echo "This is the resolved version of aws.php.";
+
 <body>
   <div class="wrapper">
     <div class="title"><span> Pandey ji ka betaAWS Login Form</span></div>
